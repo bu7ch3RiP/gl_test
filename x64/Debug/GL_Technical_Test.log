@@ -1,0 +1,6 @@
+﻿  Searcher.cpp
+E:\VS\GL_Technical_Test\GL_Technical_Test\Searcher.cpp(77,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+E:\VS\GL_Technical_Test\GL_Technical_Test\Source.cpp(59,15): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  GL_Technical_Test.vcxproj -> E:\VS\GL_Technical_Test\x64\Debug\GL_Technical_Test.exe
